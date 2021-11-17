@@ -1,0 +1,10 @@
+Pillow
+Pygame
+Numpy
+PyOpenGL
+PyAutoGUI
+Psutil
+PyWaveFront
+py-CPUinfo
+GPUtil
+Tabulate
